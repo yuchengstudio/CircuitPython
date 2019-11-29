@@ -9,3 +9,9 @@
 
 #4 adafruit bootloader program
 <br/>https://learn.adafruit.com/how-to-program-samd-bootloaders/overview
+
+#5 非常棒的一个技术博客
+<br/>https://interrupt.memfault.com/blog/how-to-write-a-bootloader-from-scratch
+
+
+
