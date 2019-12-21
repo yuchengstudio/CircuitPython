@@ -13,6 +13,9 @@
 #5 非常棒的一个技术博客
 <br/>https://interrupt.memfault.com/blog/how-to-write-a-bootloader-from-scratch
 
+#6 使用ATMEL—— ICE 连接openOCD
+https://www.yiboard.com/thread-1037-1-1.html
+
 
 # 6
 <br/>https://github.com/MicrochipTech
